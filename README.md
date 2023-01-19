@@ -18,3 +18,5 @@ maybe a battle royale type game mode but with respawns
 like a coliseum type battle game mode 
 like a big 64 player game mode with/without teams 
 
+
+with maps being able to change throughout the match and have effects on the gameplay 
